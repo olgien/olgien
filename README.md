@@ -1,19 +1,18 @@
-<div id="header" align="center">
+<div id="header">
   <h1>
   Hello :yellow_heart:
-  
-</h1>
+  </h1>
 </div>
 
-  <div id="badges">
+<div id="badges">
   <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="150"/><br/>
     <a href="https://www.linkedin.com/in/olga-kanclerz/">
      <img src="https://img.shields.io/badge/LinkedIn-Olga%20Kanclerz-9cf?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    </a><br/>
     <a href="https://www.youtube.com/user/koncertove">
      <img src="https://img.shields.io/badge/YouTube-music-critical?logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
-  </div>
+</div>
 
 
 ---
