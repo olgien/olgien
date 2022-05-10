@@ -1,4 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="100"/>
+</div>
+
+
 ### Hi there 👋
+
+
+
+
+
 
 <!--
 **olgien/olgien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
