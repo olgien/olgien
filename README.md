@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 
 I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="40"> from Poland/Warsaw.
-
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,6 +31,7 @@ I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKat
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+  
 
 ---
 
