@@ -3,6 +3,9 @@
   Hello :yellow_heart:
   <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="150"/>
 </h1>
+</div>
+
+--- 
   <div id="badges">
     <a href="https://www.linkedin.com/in/olga-kanclerz/">
      <img src="https://img.shields.io/badge/LinkedIn-Olga%20Kanclerz-9cf?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,8 +14,9 @@
      <img src="https://img.shields.io/badge/YouTube-music-critical?logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
   </div>
-</div>
 
+
+---
 ---
 
 ### :woman_technologist: About Me :
@@ -29,6 +33,9 @@ I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKat
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 
+---
+---
+  
 ### :fire: My Stats :
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
