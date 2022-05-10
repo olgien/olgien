@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <h1>
   Hello :yellow_heart:
-  <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="150"/>
+  
 </h1>
 </div>
 
---- 
   <div id="badges">
+  <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="150"/><br/>
     <a href="https://www.linkedin.com/in/olga-kanclerz/">
      <img src="https://img.shields.io/badge/LinkedIn-Olga%20Kanclerz-9cf?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -16,7 +16,6 @@
   </div>
 
 
----
 ---
 
 ### :woman_technologist: About Me :
@@ -34,7 +33,7 @@ I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKat
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 
 ---
----
+
   
 ### :fire: My Stats :
   
