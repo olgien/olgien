@@ -12,8 +12,14 @@
     </a>
   </div>
 </div>
+
 ---
 
+### :woman_technologist: About Me :
+
+I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland/Warsaw.
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **olgien/olgien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
