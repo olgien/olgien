@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="40"> from Poland.
+I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.<br/>
 I live in Warsaw, but I'm in love with France. I'm a dreamer and art lover. I create things and sing.
 <br/>
 
@@ -42,18 +42,4 @@ I live in Warsaw, but I'm in love with France. I'm a dreamer and art lover. I cr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgien&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   
-<!--
-**olgien/olgien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
--->
