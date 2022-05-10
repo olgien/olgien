@@ -8,8 +8,13 @@
     <a href="https://www.linkedin.com/in/olga-kanclerz/">
      <img src="https://img.shields.io/badge/LinkedIn-Olga%20Kanclerz-9cf?logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
+     <a href="https://www.youtube.com/user/koncertove">
+     <img src="https://img.shields.io/badge/YouTube-music-critical?logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
   </div>
 </div>
+---
+
 
 <!--
 **olgien/olgien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
