@@ -1,14 +1,13 @@
-
-
-### Hello 🤎
-
 <div id="header" align="center">
+  <h1>
+  Hello 🤎
   <img src="https://media.giphy.com/media/TkyBiV4kGpnK6jbKAG/giphy.gif" width="150"/>
+</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/olga-kanclerz/">
      <img src="https://img.shields.io/badge/LinkedIn-Olga%20Kanclerz-9cf?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-     <a href="https://www.youtube.com/user/koncertove">
+    </a>
+    <a href="https://www.youtube.com/user/koncertove">
      <img src="https://img.shields.io/badge/YouTube-music-critical?logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
   </div>
