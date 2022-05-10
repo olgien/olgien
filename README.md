@@ -19,7 +19,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="40"> from Poland/Warsaw.
+I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="40"> from Poland.
+I live in Warsaw, but I'm in love with France. I'm a dreamer and art lover. I create things and sing.
 <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
