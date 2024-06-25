@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 
 I am a Junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.<br/>
-I live in Warsaw, but I'm in love with France. I'm a dreamer and art lover. I create things and sing.
+I live in Warsaw, but I'm in love with France. I'm a dreamer and art lover. I create and sing.
 <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
